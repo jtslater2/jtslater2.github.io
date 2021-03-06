@@ -1,0 +1,62 @@
+/* Your stylesheet */
+
+/* snow background color */
+body{
+    background-color: rgb(255, 250, 250);
+    margin-top: 40 px;
+}
+
+section{
+    padding: px;
+}
+
+dataframe{
+    padding: 10px;
+    offset:20px
+}
+
+td{
+    text-align: center;
+}
+table,th,td{
+    border: 1px solid black;
+}
+
+/* For the ids */
+#header,
+#header2{
+    color: rgb(224, 64, 139);
+}
+
+#landing-image{
+    float: left;
+    position: relative;
+    width: 50%;
+    height: 50%;
+    padding: 12px;
+}
+
+#Summary{
+    padding: 12px;
+    width: 40%;
+}
+
+/* For the classes */
+.container-summary{
+    background-color: grey;
+}
+
+.container-table{
+    background-color: snow;
+}
+
+.resize{
+    width: 35%;
+    height: 35%;
+}
+
+.resize-comp{
+    width: 100%;
+    height: 100%;
+    padding:40px;
+}
